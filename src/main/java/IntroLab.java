@@ -41,6 +41,16 @@ public class IntroLab {
      * Make sure you document your method properly!
      */
 
+    public static String tangxi14(){
+        /**
+         * A method that will print my name and preference on pets, also welcomes me.
+         *
+         * @return A String message that welcome myself.
+         */
+        return printLabMessage("Hello", "Xiaoxi Tang", false,
+                "Welcome to CSC207!");
+    }
+
     /**
      * An example method that calls on printLabMessage.
      */
