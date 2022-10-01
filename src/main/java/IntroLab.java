@@ -41,7 +41,7 @@ public class IntroLab {
      * Make sure you document your method properly!
      */
 
-    public static String tangxi14(){
+    public static String tangxi14() {
         /**
          * A method that will print my name and preference on pets, also welcomes me.
          *
